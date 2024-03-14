@@ -1,0 +1,14 @@
+.todoList {
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 10px;
+  }
+  
